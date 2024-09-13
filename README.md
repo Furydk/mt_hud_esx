@@ -20,7 +20,7 @@ Simple and clean FiveM HUD made in Typescript with React and Mantine
 - Clean and optimized UI
 
 # Dependicies
-- qb-core or qbx_core
+- ESX, qb-core or qbx_core
 - ox_lib
 
 # Preview
