@@ -1,6 +1,6 @@
 fx_version 'cerulean'
 description 'FiveM Player and Vehicle HUD script'
-author 'Marttins'
+author 'Marttins - Made ESX by Fury'
 lua54 'yes'
 game 'gta5'
 
