@@ -1,5 +1,5 @@
 return {
-    core = exports['qb-core']:GetCoreObject(),
+    core = exports["es_extended"]:getSharedObject(),
     speedType = 'kmh', -- kmh or mph
     colors = {
         voiceInactive = 'gray.1',
