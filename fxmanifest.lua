@@ -1,6 +1,6 @@
 fx_version 'cerulean'
 description 'FiveM Player and Vehicle HUD script'
-author 'Marttins - Made ESX by Fury'
+author 'Marttins'
 lua54 'yes'
 game 'gta5'
 
@@ -22,7 +22,7 @@ ui_page 'web/build/index.html'
 
 files {
     'locales/*',
-	'web/build/index.html',
-	'web/build/**/*',
+    'web/build/index.html',
+    'web/build/**/*',
     'web/assets/**/*',
 }
